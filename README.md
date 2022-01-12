@@ -20,4 +20,4 @@ Copyright Material.
 
 **For Users:** If we find any user abusing bot or misusing its function to bully or to cause trouble to other people, we reserve the right to ban the user from using our bot.
 
-##### Last Update: 12 January 2022.
+##### Last Update: 12th January, 2022
